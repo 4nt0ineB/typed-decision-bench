@@ -1,0 +1,23 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+
+# Screen recordings for the talk: large, kept locally
+recordings/
+
+# Reasoning notes. Everything they concluded that is worth publishing is in the
+# blogpost or in a probe's docstring.
+journal.md
+
+# Fetched or built by the commands in the README. Not worth the git history.
+data/1.1/
+data/massive-1.1.tar.gz
+data/en-corpus.txt
+data/fr-corpus/
+
+data/*.pdf
+data/redaction-rules.json
+probes/redact_proposal.py

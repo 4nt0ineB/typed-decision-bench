@@ -1,0 +1,38 @@
+{
+  "model": "mistral-nemo-openrouter",
+  "task": "massive_intent",
+  "adapter": "openai_compat",
+  "kwargs": {
+    "model": "mistralai/mistral-nemo",
+    "ignore_providers": [
+      "Novita"
+    ]
+  },
+  "sample": 500,
+  "seed": 42,
+  "workers": 3,
+  "n": 1500,
+  "complete": true,
+  "started": "2026-09-22T23:02:10+0200",
+  "ended": "2026-09-22T23:10:11+0200",
+  "git": "21e5ca0d72d7874b06824f2aa9f230ba0405e519-dirty",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "python": "3.12.11",
+  "versions": {
+    "typesafe-sdk": "0.6.0",
+    "laya": "0.3.4",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "mlx": "0.32.2",
+    "mlx-lm": "0.31.3"
+  },
+  "base_url": "https://openrouter.ai/api/v1",
+  "model_id": "mistralai/mistral-nemo",
+  "providers": [
+    "Parasail",
+    "DekaLLM"
+  ],
+  "ignore_providers": [
+    "Novita"
+  ]
+}

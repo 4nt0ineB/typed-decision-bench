@@ -1,0 +1,100 @@
+{"run": 0, "field": "montant_bien", "gold": ["214 000,00"], "predicted": "214 000,00", "correct": true, "p_chosen": 0.9400000000000001, "confidence": 0.93, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "cout_total_projet", "gold": ["233 596,00"], "predicted": "233 596,00", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "montant_apport", "gold": ["41 000,00"], "predicted": "41 000,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "montant_pret", "gold": ["192 596,00"], "predicted": "192 596,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "frais_garantie", "gold": ["2 796,00", "2 796,45"], "predicted": "2 796,00", "correct": true, "p_chosen": 0.92, "confidence": 0.91, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "frais_dossier", "gold": ["0,00"], "predicted": "0,00", "correct": true, "p_chosen": 1.0, "confidence": 0.99, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "frais_notaire_et_divers", "gold": ["16 800,00"], "predicted": "16 800,00", "correct": true, "p_chosen": 0.99, "confidence": 0.98, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "revenus_mensuels", "gold": ["3 140,00"], "predicted": "3 140,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "mensualite_hors_assurance", "gold": ["1 014,07"], "predicted": "1 014,07", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "mensualite_avec_assurance", "gold": ["1 025,27"], "predicted": "1 025,27", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "montant_interets", "gold": ["99 456,16"], "predicted": "99 456,16", "correct": true, "p_chosen": 0.95, "confidence": 0.95, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "cout_credit_hors_assurance", "gold": ["102 252,61"], "predicted": "102 252,61", "correct": true, "p_chosen": 0.97, "confidence": 0.97, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "cout_credit_avec_assurance", "gold": ["105 478,21"], "predicted": "105 478,21", "correct": true, "p_chosen": 0.93, "confidence": 0.91, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "cout_assurance_duree_totale", "gold": ["3 225,60"], "predicted": "3 225,60", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "cout_assurance_huit_ans", "gold": ["1 075,20"], "predicted": "1 075,20", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "prime_assurance_mensuelle", "gold": ["11,20"], "predicted": "11,20", "correct": true, "p_chosen": 0.89, "confidence": 0.88, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "taux_debiteur", "gold": ["3,74"], "predicted": "3,74", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "taeg", "gold": ["4,08"], "predicted": "4,08", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "taux_assurance", "gold": ["0,13"], "predicted": "0,13", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 0, "field": "enveloppe_travaux", "gold": ["aucune"], "predicted": "aucune", "correct": true, "p_chosen": 0.89, "confidence": 0.88, "elapsed_ms": 1005.6342909956584, "input_tokens": 25502}
+{"run": 1, "field": "montant_bien", "gold": ["214 000,00"], "predicted": "214 000,00", "correct": true, "p_chosen": 0.93, "confidence": 0.92, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "cout_total_projet", "gold": ["233 596,00"], "predicted": "233 596,00", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "montant_apport", "gold": ["41 000,00"], "predicted": "41 000,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "montant_pret", "gold": ["192 596,00"], "predicted": "192 596,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "frais_garantie", "gold": ["2 796,00", "2 796,45"], "predicted": "2 796,00", "correct": true, "p_chosen": 0.88, "confidence": 0.88, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "frais_dossier", "gold": ["0,00"], "predicted": "0,00", "correct": true, "p_chosen": 1.0, "confidence": 0.99, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "frais_notaire_et_divers", "gold": ["16 800,00"], "predicted": "16 800,00", "correct": true, "p_chosen": 0.99, "confidence": 0.98, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "revenus_mensuels", "gold": ["3 140,00"], "predicted": "3 140,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "mensualite_hors_assurance", "gold": ["1 014,07"], "predicted": "1 014,07", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "mensualite_avec_assurance", "gold": ["1 025,27"], "predicted": "1 025,27", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "montant_interets", "gold": ["99 456,16"], "predicted": "99 456,16", "correct": true, "p_chosen": 0.96, "confidence": 0.96, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "cout_credit_hors_assurance", "gold": ["102 252,61"], "predicted": "102 252,61", "correct": true, "p_chosen": 0.98, "confidence": 0.97, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "cout_credit_avec_assurance", "gold": ["105 478,21"], "predicted": "105 478,21", "correct": true, "p_chosen": 0.88, "confidence": 0.87, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "cout_assurance_duree_totale", "gold": ["3 225,60"], "predicted": "3 225,60", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "cout_assurance_huit_ans", "gold": ["1 075,20"], "predicted": "1 075,20", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "prime_assurance_mensuelle", "gold": ["11,20"], "predicted": "11,20", "correct": true, "p_chosen": 0.92, "confidence": 0.9, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "taux_debiteur", "gold": ["3,74"], "predicted": "3,74", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "taeg", "gold": ["4,08"], "predicted": "4,08", "correct": true, "p_chosen": 1.0, "confidence": 0.99, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "taux_assurance", "gold": ["0,13"], "predicted": "0,13", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 1, "field": "enveloppe_travaux", "gold": ["aucune"], "predicted": "aucune", "correct": true, "p_chosen": 0.89, "confidence": 0.87, "elapsed_ms": 513.8217919884482, "input_tokens": 25502}
+{"run": 2, "field": "montant_bien", "gold": ["214 000,00"], "predicted": "214 000,00", "correct": true, "p_chosen": 0.92, "confidence": 0.91, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "cout_total_projet", "gold": ["233 596,00"], "predicted": "233 596,00", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "montant_apport", "gold": ["41 000,00"], "predicted": "41 000,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "montant_pret", "gold": ["192 596,00"], "predicted": "192 596,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "frais_garantie", "gold": ["2 796,00", "2 796,45"], "predicted": "2 796,00", "correct": true, "p_chosen": 0.93, "confidence": 0.92, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "frais_dossier", "gold": ["0,00"], "predicted": "0,00", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "frais_notaire_et_divers", "gold": ["16 800,00"], "predicted": "16 800,00", "correct": true, "p_chosen": 0.99, "confidence": 0.98, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "revenus_mensuels", "gold": ["3 140,00"], "predicted": "3 140,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "mensualite_hors_assurance", "gold": ["1 014,07"], "predicted": "1 014,07", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "mensualite_avec_assurance", "gold": ["1 025,27"], "predicted": "1 025,27", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "montant_interets", "gold": ["99 456,16"], "predicted": "99 456,16", "correct": true, "p_chosen": 0.96, "confidence": 0.95, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "cout_credit_hors_assurance", "gold": ["102 252,61"], "predicted": "102 252,61", "correct": true, "p_chosen": 0.98, "confidence": 0.98, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "cout_credit_avec_assurance", "gold": ["105 478,21"], "predicted": "105 478,21", "correct": true, "p_chosen": 0.93, "confidence": 0.91, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "cout_assurance_duree_totale", "gold": ["3 225,60"], "predicted": "3 225,60", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "cout_assurance_huit_ans", "gold": ["1 075,20"], "predicted": "1 075,20", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "prime_assurance_mensuelle", "gold": ["11,20"], "predicted": "11,20", "correct": true, "p_chosen": 0.9, "confidence": 0.88, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "taux_debiteur", "gold": ["3,74"], "predicted": "3,74", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "taeg", "gold": ["4,08"], "predicted": "4,08", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "taux_assurance", "gold": ["0,13"], "predicted": "0,13", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 2, "field": "enveloppe_travaux", "gold": ["aucune"], "predicted": "aucune", "correct": true, "p_chosen": 0.9, "confidence": 0.88, "elapsed_ms": 416.9630839896854, "input_tokens": 25502}
+{"run": 3, "field": "montant_bien", "gold": ["214 000,00"], "predicted": "214 000,00", "correct": true, "p_chosen": 0.9, "confidence": 0.89, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "cout_total_projet", "gold": ["233 596,00"], "predicted": "233 596,00", "correct": true, "p_chosen": 1.0, "confidence": 0.99, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "montant_apport", "gold": ["41 000,00"], "predicted": "41 000,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "montant_pret", "gold": ["192 596,00"], "predicted": "192 596,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "frais_garantie", "gold": ["2 796,00", "2 796,45"], "predicted": "2 796,00", "correct": true, "p_chosen": 0.91, "confidence": 0.91, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "frais_dossier", "gold": ["0,00"], "predicted": "0,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "frais_notaire_et_divers", "gold": ["16 800,00"], "predicted": "16 800,00", "correct": true, "p_chosen": 0.99, "confidence": 0.98, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "revenus_mensuels", "gold": ["3 140,00"], "predicted": "3 140,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "mensualite_hors_assurance", "gold": ["1 014,07"], "predicted": "1 014,07", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "mensualite_avec_assurance", "gold": ["1 025,27"], "predicted": "1 025,27", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "montant_interets", "gold": ["99 456,16"], "predicted": "99 456,16", "correct": true, "p_chosen": 0.96, "confidence": 0.95, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "cout_credit_hors_assurance", "gold": ["102 252,61"], "predicted": "102 252,61", "correct": true, "p_chosen": 0.98, "confidence": 0.97, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "cout_credit_avec_assurance", "gold": ["105 478,21"], "predicted": "105 478,21", "correct": true, "p_chosen": 0.92, "confidence": 0.9, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "cout_assurance_duree_totale", "gold": ["3 225,60"], "predicted": "3 225,60", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "cout_assurance_huit_ans", "gold": ["1 075,20"], "predicted": "1 075,20", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "prime_assurance_mensuelle", "gold": ["11,20"], "predicted": "11,20", "correct": true, "p_chosen": 0.89, "confidence": 0.87, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "taux_debiteur", "gold": ["3,74"], "predicted": "3,74", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "taeg", "gold": ["4,08"], "predicted": "4,08", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "taux_assurance", "gold": ["0,13"], "predicted": "0,13", "correct": true, "p_chosen": 1.0, "confidence": 0.99, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 3, "field": "enveloppe_travaux", "gold": ["aucune"], "predicted": "aucune", "correct": true, "p_chosen": 0.88, "confidence": 0.87, "elapsed_ms": 495.72941700171214, "input_tokens": 25502}
+{"run": 4, "field": "montant_bien", "gold": ["214 000,00"], "predicted": "214 000,00", "correct": true, "p_chosen": 0.9400000000000001, "confidence": 0.93, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "cout_total_projet", "gold": ["233 596,00"], "predicted": "233 596,00", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "montant_apport", "gold": ["41 000,00"], "predicted": "41 000,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "montant_pret", "gold": ["192 596,00"], "predicted": "192 596,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "frais_garantie", "gold": ["2 796,00", "2 796,45"], "predicted": "2 796,00", "correct": true, "p_chosen": 0.91, "confidence": 0.91, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "frais_dossier", "gold": ["0,00"], "predicted": "0,00", "correct": true, "p_chosen": 1.0, "confidence": 0.99, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "frais_notaire_et_divers", "gold": ["16 800,00"], "predicted": "16 800,00", "correct": true, "p_chosen": 0.99, "confidence": 0.98, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "revenus_mensuels", "gold": ["3 140,00"], "predicted": "3 140,00", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "mensualite_hors_assurance", "gold": ["1 014,07"], "predicted": "1 014,07", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "mensualite_avec_assurance", "gold": ["1 025,27"], "predicted": "1 025,27", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "montant_interets", "gold": ["99 456,16"], "predicted": "99 456,16", "correct": true, "p_chosen": 0.96, "confidence": 0.96, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "cout_credit_hors_assurance", "gold": ["102 252,61"], "predicted": "102 252,61", "correct": true, "p_chosen": 0.96, "confidence": 0.96, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "cout_credit_avec_assurance", "gold": ["105 478,21"], "predicted": "105 478,21", "correct": true, "p_chosen": 0.93, "confidence": 0.92, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "cout_assurance_duree_totale", "gold": ["3 225,60"], "predicted": "3 225,60", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "cout_assurance_huit_ans", "gold": ["1 075,20"], "predicted": "1 075,20", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "prime_assurance_mensuelle", "gold": ["11,20"], "predicted": "11,20", "correct": true, "p_chosen": 0.92, "confidence": 0.9, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "taux_debiteur", "gold": ["3,74"], "predicted": "3,74", "correct": true, "p_chosen": 1.0, "confidence": 1.0, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "taeg", "gold": ["4,08"], "predicted": "4,08", "correct": true, "p_chosen": 1.0, "confidence": 0.99, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "taux_assurance", "gold": ["0,13"], "predicted": "0,13", "correct": true, "p_chosen": 0.99, "confidence": 0.99, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}
+{"run": 4, "field": "enveloppe_travaux", "gold": ["aucune"], "predicted": "aucune", "correct": true, "p_chosen": 0.89, "confidence": 0.88, "elapsed_ms": 404.0636659919983, "input_tokens": 25502}

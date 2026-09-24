@@ -1,0 +1,46 @@
+{
+  "model": "open-jev-9b",
+  "task": "massive_intent",
+  "adapter": "openjev",
+  "kwargs": {
+    "checkpoint_repo": "ZefanCai/Open-Jev-9B",
+    "revision": "47e966881e489511c0c7f5633a9e1960a676a551",
+    "batch_size": 64
+  },
+  "split": "dev",
+  "sample": 200,
+  "seed": 7,
+  "workers": 1,
+  "n": 600,
+  "complete": true,
+  "started": "2026-09-23T07:15:48+0000",
+  "ended": "2026-09-23T07:22:30+0000",
+  "git": "0e4edb83cf4923ed780cdbb43a399c2b5fbfe4d4-dirty",
+  "platform": "Linux-4.19.0-gvisor-x86_64-with-glibc2.36",
+  "python": "3.12.10",
+  "versions": {
+    "typesafe-sdk": "0.6.0",
+    "laya": "0.3.4",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "peft": "0.19.1",
+    "mlx": null,
+    "mlx-lm": null
+  },
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "open_jev_commit": "ed45657bf726c3b77408942830e5578f99df904e",
+  "checkpoint_revision": "47e966881e489511c0c7f5633a9e1960a676a551",
+  "base_model": "Qwen/Qwen3.5-9B",
+  "base_revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+  "checkpoint_sha256": "9302c52feba99d079918755f2469f4f088266e9786327bab550248f3d83716d3",
+  "temperature": 1.8969118766347646,
+  "max_length": 4096,
+  "device": "cuda",
+  "dtype": "bfloat16",
+  "batch_size": 64,
+  "prefix_cache": false,
+  "kernels": {
+    "causal_conv1d": false,
+    "fla": true
+  }
+}

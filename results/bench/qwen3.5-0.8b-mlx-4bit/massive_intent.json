@@ -1,0 +1,31 @@
+{
+  "model": "qwen3.5-0.8b-mlx-4bit",
+  "task": "massive_intent",
+  "adapter": "mlx_logits",
+  "kwargs": {
+    "hf_id": "mlx-community/Qwen3.5-0.8B-4bit"
+  },
+  "sample": 500,
+  "seed": 42,
+  "n": 1500,
+  "started": "2026-09-22T21:15:15+0200",
+  "ended": "2026-09-22T21:24:17+0200",
+  "git": "e1e7660639adacc690254576919a4400f626fc7c-dirty",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "python": "3.12.11",
+  "versions": {
+    "typesafe-sdk": "0.6.0",
+    "laya": "0.3.4",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "mlx": "0.32.2",
+    "mlx-lm": "0.31.3"
+  },
+  "runtime": "mlx-lm 0.31.3",
+  "revision": "da28692b5f139cb0ec58a356b437486b7dac7462",
+  "quantization": {
+    "bits": 4,
+    "group_size": 64
+  },
+  "device": "mlx"
+}

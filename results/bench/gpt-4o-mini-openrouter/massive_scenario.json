@@ -1,0 +1,31 @@
+{
+  "model": "gpt-4o-mini-openrouter",
+  "task": "massive_scenario",
+  "adapter": "openai_compat",
+  "kwargs": {
+    "model": "openai/gpt-4o-mini"
+  },
+  "sample": 500,
+  "seed": 42,
+  "workers": 6,
+  "n": 2000,
+  "started": "2026-09-22T22:04:32+0200",
+  "ended": "2026-09-22T22:12:08+0200",
+  "git": "01ececb80552d5abf26aee914906a6faf8812a4e-dirty",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "python": "3.12.11",
+  "versions": {
+    "typesafe-sdk": "0.6.0",
+    "laya": "0.3.4",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "mlx": "0.32.2",
+    "mlx-lm": "0.31.3"
+  },
+  "base_url": "https://openrouter.ai/api/v1",
+  "model_id": "openai/gpt-4o-mini",
+  "providers": [
+    "OpenAI",
+    "Azure"
+  ]
+}

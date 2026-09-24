@@ -1,0 +1,24 @@
+{"field": "montant_pret", "run": 0, "removed": ["192 596,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.78, "confidence": 0.76, "elapsed_ms": 934.1993330017431}
+{"field": "montant_pret", "run": 1, "removed": ["192 596,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.78, "confidence": 0.76, "elapsed_ms": 475.95804200682323}
+{"field": "montant_pret", "run": 2, "removed": ["192 596,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.78, "confidence": 0.76, "elapsed_ms": 317.3497910029255}
+{"field": "montant_bien", "run": 0, "removed": ["214 000,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.84, "confidence": 0.82, "elapsed_ms": 289.05354099697433}
+{"field": "montant_bien", "run": 1, "removed": ["214 000,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.78, "confidence": 0.77, "elapsed_ms": 316.0083339898847}
+{"field": "montant_bien", "run": 2, "removed": ["214 000,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.79, "confidence": 0.77, "elapsed_ms": 304.71349999425}
+{"field": "revenus_mensuels", "run": 0, "removed": ["3 140,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.98, "confidence": 0.97, "elapsed_ms": 389.11583299341146}
+{"field": "revenus_mensuels", "run": 1, "removed": ["3 140,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.97, "confidence": 0.96, "elapsed_ms": 300.15437499969266}
+{"field": "revenus_mensuels", "run": 2, "removed": ["3 140,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.98, "confidence": 0.97, "elapsed_ms": 291.88991599949077}
+{"field": "mensualite_avec_assurance", "run": 0, "removed": ["1 025,27"], "predicted": "aucune", "abstained": true, "p_chosen": 0.73, "confidence": 0.7, "elapsed_ms": 319.2157919984311}
+{"field": "mensualite_avec_assurance", "run": 1, "removed": ["1 025,27"], "predicted": "aucune", "abstained": true, "p_chosen": 0.7, "confidence": 0.68, "elapsed_ms": 327.3787500074832}
+{"field": "mensualite_avec_assurance", "run": 2, "removed": ["1 025,27"], "predicted": "aucune", "abstained": true, "p_chosen": 0.66, "confidence": 0.64, "elapsed_ms": 338.5587920056423}
+{"field": "cout_credit_avec_assurance", "run": 0, "removed": ["105 478,21"], "predicted": "aucune", "abstained": true, "p_chosen": 0.6900000000000001, "confidence": 0.66, "elapsed_ms": 306.44220899557695}
+{"field": "cout_credit_avec_assurance", "run": 1, "removed": ["105 478,21"], "predicted": "aucune", "abstained": true, "p_chosen": 0.59, "confidence": 0.56, "elapsed_ms": 282.9211250063963}
+{"field": "cout_credit_avec_assurance", "run": 2, "removed": ["105 478,21"], "predicted": "aucune", "abstained": true, "p_chosen": 0.56, "confidence": 0.53, "elapsed_ms": 526.280542006134}
+{"field": "taux_debiteur", "run": 0, "removed": ["3,74"], "predicted": "aucune", "abstained": true, "p_chosen": 0.71, "confidence": 0.69, "elapsed_ms": 270.28954100387637}
+{"field": "taux_debiteur", "run": 1, "removed": ["3,74"], "predicted": "aucune", "abstained": true, "p_chosen": 0.74, "confidence": 0.72, "elapsed_ms": 381.781249991036}
+{"field": "taux_debiteur", "run": 2, "removed": ["3,74"], "predicted": "aucune", "abstained": true, "p_chosen": 0.73, "confidence": 0.71, "elapsed_ms": 271.5171249874402}
+{"field": "frais_dossier", "run": 0, "removed": ["0,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.97, "confidence": 0.96, "elapsed_ms": 363.45600000640843}
+{"field": "frais_dossier", "run": 1, "removed": ["0,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.98, "confidence": 0.97, "elapsed_ms": 290.98449999582954}
+{"field": "frais_dossier", "run": 2, "removed": ["0,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.97, "confidence": 0.96, "elapsed_ms": 291.49308399064466}
+{"field": "cout_total_projet", "run": 0, "removed": ["233 596,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.91, "confidence": 0.9, "elapsed_ms": 336.29150000342634}
+{"field": "cout_total_projet", "run": 1, "removed": ["233 596,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.91, "confidence": 0.89, "elapsed_ms": 263.86587499291636}
+{"field": "cout_total_projet", "run": 2, "removed": ["233 596,00"], "predicted": "aucune", "abstained": true, "p_chosen": 0.93, "confidence": 0.92, "elapsed_ms": 309.4517499994254}

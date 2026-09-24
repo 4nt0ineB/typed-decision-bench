@@ -1,0 +1,33 @@
+{
+  "model": "qwen3.5-9b",
+  "task": "massive_intent",
+  "adapter": "hf_logits",
+  "kwargs": {
+    "hf_id": "Qwen/Qwen3.5-9B",
+    "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a"
+  },
+  "split": "test",
+  "sample": 500,
+  "seed": 42,
+  "workers": 1,
+  "n": 1500,
+  "complete": true,
+  "started": "2026-09-24T08:07:27+0000",
+  "ended": "2026-09-24T08:12:00+0000",
+  "git": "f129936d6b0c89268244227d44ca03cf16402336-dirty",
+  "platform": "Linux-4.19.0-gvisor-x86_64-with-glibc2.36",
+  "python": "3.12.10",
+  "versions": {
+    "typesafe-sdk": "0.6.0",
+    "laya": "0.3.4",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "peft": "0.19.1",
+    "mlx": null,
+    "mlx-lm": null
+  },
+  "gpu": "NVIDIA A100 80GB PCIe",
+  "revision": "c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+  "device": "cuda",
+  "dtype": "bfloat16"
+}
