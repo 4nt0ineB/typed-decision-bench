@@ -1,0 +1,41 @@
+{
+  "model": "kev-27b",
+  "task": "reply_matching",
+  "adapter": "kev",
+  "kwargs": {
+    "model": "jaredpalmer/kev-27b@01b81998019be550f0ae858727df49bac9511195"
+  },
+  "split": "test",
+  "sample": 500,
+  "seed": 42,
+  "workers": 1,
+  "n": 500,
+  "complete": true,
+  "started": "2026-09-29T20:27:53+0000",
+  "ended": "2026-09-29T20:37:09+0000",
+  "git": "344444ec38d591126183a40dd03e5be02f32f06c-dirty",
+  "platform": "Linux-4.19.0-gvisor-x86_64-with-glibc2.36",
+  "python": "3.13.3",
+  "versions": {
+    "typesafe-sdk": "0.7.2",
+    "laya": null,
+    "torch": "2.8.0",
+    "transformers": "5.17.0",
+    "peft": "0.21.1",
+    "mlx": null,
+    "mlx-lm": null,
+    "kev": "0.1.0",
+    "triton": "3.8.0",
+    "flash-linear-attention": "0.5.2"
+  },
+  "gpu": "NVIDIA H100 80GB HBM3",
+  "kev_commit": "f2bb629d670f5b746f712fc05550a098526c836b",
+  "checkpoint": "jaredpalmer/kev-27b@01b81998019be550f0ae858727df49bac9511195",
+  "temperature": 1.381912879967776,
+  "dtype": "bfloat16",
+  "fused": true,
+  "cuda_graphs": true,
+  "kernels": {
+    "fla": true
+  }
+}

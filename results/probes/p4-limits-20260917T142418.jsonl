@@ -1,0 +1,13 @@
+{"ok": true, "chars": 2000, "tokens": 598, "elapsed_ms": 637.9030000243802}
+{"ok": true, "chars": 4000, "tokens": 1150, "elapsed_ms": 251.22620799811557}
+{"ok": true, "chars": 8000, "tokens": 2354, "elapsed_ms": 228.98629200062715}
+{"ok": true, "chars": 16000, "tokens": 5434, "elapsed_ms": 231.31779200048186}
+{"ok": true, "chars": 32000, "tokens": 9649, "elapsed_ms": 386.774582992075}
+{"ok": true, "chars": 64000, "tokens": 16971, "elapsed_ms": 309.12474999786355}
+{"ok": false, "chars": 128000, "error": "TypeSafeBadRequestError", "message": "POST https://api.typesafe.ai/v1/systemone: 400 {\"detail\":{\"error_type\":\"max_tokens_exceeded\"}} (request_id=req_01a0af5321e9793f8d886da25112cb0b)"}
+{"ok": true, "chars": 96000, "tokens": 25216, "elapsed_ms": 336.5296669944655}
+{"ok": true, "chars": 112000, "tokens": 29076, "elapsed_ms": 356.9777919910848}
+{"ok": true, "chars": 120000, "tokens": 30996, "elapsed_ms": 430.3104159771465}
+{"ok": true, "chars": 124000, "tokens": 31879, "elapsed_ms": 417.7364170027431}
+{"ok": true, "chars": 126000, "tokens": 32547, "elapsed_ms": 393.64691701484844}
+{"ok": true, "chars": 127000, "tokens": 32954, "elapsed_ms": 416.1458750022575}

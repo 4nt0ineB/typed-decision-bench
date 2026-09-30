@@ -1,0 +1,32 @@
+{
+  "model": "minicpm5-2b",
+  "task": "massive_scenario",
+  "adapter": "hf_logits",
+  "kwargs": {
+    "hf_id": "openbmb/MiniCPM5-2B"
+  },
+  "split": "test",
+  "sample": 500,
+  "seed": 42,
+  "workers": 1,
+  "n": 2000,
+  "complete": true,
+  "started": "2026-09-24T08:39:42+0000",
+  "ended": "2026-09-24T08:41:09+0000",
+  "git": "f129936d6b0c89268244227d44ca03cf16402336-dirty",
+  "platform": "Linux-4.19.0-gvisor-x86_64-with-glibc2.36",
+  "python": "3.12.10",
+  "versions": {
+    "typesafe-sdk": "0.6.0",
+    "laya": "0.3.4",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "peft": "0.19.1",
+    "mlx": null,
+    "mlx-lm": null
+  },
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "revision": "12a3808a956f869c767195e9266b59c4d21d92e2",
+  "device": "cuda",
+  "dtype": "bfloat16"
+}

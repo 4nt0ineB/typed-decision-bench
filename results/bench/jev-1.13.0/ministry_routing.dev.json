@@ -1,0 +1,28 @@
+{
+  "model": "jev-1.13.0",
+  "task": "ministry_routing",
+  "adapter": "jev",
+  "kwargs": {
+    "model": "jev-1.13.0"
+  },
+  "split": "dev",
+  "sample": 200,
+  "seed": 42,
+  "workers": 4,
+  "n": 400,
+  "complete": true,
+  "started": "2026-09-29T20:52:47+0200",
+  "ended": "2026-09-29T20:53:12+0200",
+  "git": "bd6e2adb187d350b7a576744e8d56c18b50c7db2-dirty",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "python": "3.12.11",
+  "versions": {
+    "typesafe-sdk": "0.6.0",
+    "laya": "0.3.4",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "peft": null,
+    "mlx": "0.32.2",
+    "mlx-lm": "0.31.3"
+  }
+}

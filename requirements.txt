@@ -1,0 +1,23 @@
+typesafe-sdk==0.6.0
+matplotlib==3.11.2
+
+# P12-P14 only: the open-weight encoder.
+laya==0.3.4
+
+# P17 only: the local small LLMs. Pulled in by laya anyway, pinned here because
+# a probe depends on them directly.
+torch==2.14.0
+transformers==5.17.0
+
+# bench/models/mlx_logits.py only: Apple silicon runtime for the local LLMs.
+mlx-lm==0.31.3; sys_platform == "darwin"
+
+# bench/models/openjev.py only: Linux and CUDA, installed in bench/modal_run.py's image.
+# Not open-jev[train]: it pins transformers==5.10.2 against our 5.17.0. peft and
+# accelerate are the versions that extra pins.
+open-jev @ git+https://github.com/Zefan-Cai/Open-Jev@ed45657bf726c3b77408942830e5578f99df904e ; sys_platform == "linux"
+peft==0.19.1; sys_platform == "linux"
+accelerate==1.13.0; sys_platform == "linux"
+
+# bench/modal_run.py only: rented GPU runs.
+modal==1.5.5

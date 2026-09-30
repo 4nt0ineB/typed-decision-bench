@@ -1,0 +1,31 @@
+{
+  "model": "xlm-r-base-massive-intent",
+  "task": "massive_intent",
+  "adapter": "hf_classifier",
+  "kwargs": {
+    "hf_id": "cartesinus/xlm-r-base-amazon-massive-intent",
+    "revision": "52f2f02e1ba81f0ef8bb9d0d25ec9ccbb98128b6"
+  },
+  "split": "test",
+  "sample": 500,
+  "seed": 42,
+  "workers": 1,
+  "n": 1500,
+  "complete": true,
+  "started": "2026-09-27T21:15:09+0200",
+  "ended": "2026-09-27T21:16:30+0200",
+  "git": "4e2303abbab98788e8fc313020d5d73c2219abd2-dirty",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "python": "3.12.11",
+  "versions": {
+    "typesafe-sdk": "0.6.0",
+    "laya": "0.3.4",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "peft": null,
+    "mlx": "0.32.2",
+    "mlx-lm": "0.31.3"
+  },
+  "revision": "52f2f02e1ba81f0ef8bb9d0d25ec9ccbb98128b6",
+  "device": "mps"
+}

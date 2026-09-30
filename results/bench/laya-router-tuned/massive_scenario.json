@@ -1,0 +1,27 @@
+{
+  "model": "laya-router-tuned",
+  "task": "massive_scenario",
+  "n": 2000,
+  "derived": true,
+  "source": "results/bench/laya-router/massive_scenario.jsonl",
+  "temperature_exponents": {
+    "english": 0.12,
+    "multilingual": 0.73
+  },
+  "fit": {
+    "source": "results/bench/laya-router/massive_scenario.dev.jsonl",
+    "split": "dev",
+    "sample": 200,
+    "seed": 7,
+    "objective": "nll",
+    "conditions": [
+      "EN_EN",
+      "FR_FR"
+    ],
+    "rows_per_checkpoint": {
+      "english": 294,
+      "multilingual": 106
+    }
+  },
+  "git": "43f248b375cd1d9a38472b1316f2c07cdd47aeb9-dirty"
+}

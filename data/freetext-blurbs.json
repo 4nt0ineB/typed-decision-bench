@@ -1,0 +1,158 @@
+[
+  {
+    "text": "bjr je suis célibataire je gagne 2580 net par mois je veux acheter une maison ancienne vers l'est de paris 210k j'ai 32000 d'apport est ce que j'ai droit au ptz ?",
+    "gold": {
+      "projet": "residence_principale",
+      "nature": "ANCIEN",
+      "famille": "celibataire",
+      "ptz_evoque": true,
+      "prix": "210k",
+      "apport": "32000",
+      "revenus": "2580"
+    }
+  },
+  {
+    "text": "On est en couple avec 2 enfants, on cherche du neuf, budget 350 000 €, apport 60k. On nous a parlé du PTZ mais on ne sait pas si on y a droit.",
+    "gold": {
+      "projet": "residence_principale",
+      "nature": "NEUF",
+      "famille": "famille_avec_enfants",
+      "ptz_evoque": true,
+      "prix": "350 000 €",
+      "apport": "60k",
+      "revenus": "non_precise"
+    }
+  },
+  {
+    "text": "investissement locatif, studio 95k, je paye cash pas de prêt",
+    "gold": {
+      "projet": "investissement_locatif",
+      "nature": "non_precise",
+      "famille": "non_precise",
+      "ptz_evoque": false,
+      "prix": "95k",
+      "apport": "95k",
+      "revenus": "non_precise"
+    },
+    "notes": {
+      "apport": "Paying cash with no loan means the whole price is the contribution."
+    }
+  },
+  {
+    "text": "je voudrais faire des travaux dans ma maison, isolation et toiture, 40 000 euros de budget, je gagne 3200 par mois",
+    "gold": {
+      "projet": "travaux",
+      "nature": "ANCIEN",
+      "famille": "non_precise",
+      "ptz_evoque": false,
+      "prix": "non_precise",
+      "apport": "non_precise",
+      "revenus": "3200"
+    },
+    "notes": {
+      "nature": "Renovating a house you already own means the property is an existing one."
+    }
+  },
+  {
+    "text": "j'ai trois crédits conso en cours et ça devient lourd, je voudrais tout regrouper en une seule mensualité",
+    "gold": {
+      "projet": "rachat_credit",
+      "nature": "non_precise",
+      "famille": "non_precise",
+      "ptz_evoque": false,
+      "prix": "non_precise",
+      "apport": "non_precise",
+      "revenus": "non_precise"
+    }
+  },
+  {
+    "text": "achat maison 200k",
+    "gold": {
+      "projet": "residence_principale",
+      "nature": "non_precise",
+      "famille": "non_precise",
+      "ptz_evoque": false,
+      "prix": "200k",
+      "apport": "non_precise",
+      "revenus": "non_precise"
+    }
+  },
+  {
+    "text": "j'hésite encore entre continuer à louer ou acheter, je voulais juste simuler pour voir ce que ça donne",
+    "gold": {
+      "projet": "indecis",
+      "nature": "non_precise",
+      "famille": "non_precise",
+      "ptz_evoque": false,
+      "prix": "non_precise",
+      "apport": "non_precise",
+      "revenus": "non_precise"
+    }
+  },
+  {
+    "text": "mariés 1 enfant, appart ancien à rénover 180000, on a 0 d'apport, salaires cumulés 4100 net",
+    "gold": {
+      "projet": "residence_principale",
+      "nature": "ANCIEN",
+      "famille": "famille_avec_enfants",
+      "ptz_evoque": false,
+      "prix": "180000",
+      "apport": "0",
+      "revenus": "4100"
+    }
+  },
+  {
+    "text": "j ai 30 ans je veux emprunter sur 25 ans pour un appart neuf a 240k",
+    "gold": {
+      "projet": "residence_principale",
+      "nature": "NEUF",
+      "famille": "non_precise",
+      "ptz_evoque": false,
+      "prix": "240k",
+      "apport": "non_precise",
+      "revenus": "non_precise"
+    }
+  },
+  {
+    "text": "en concubinage, on achète une maison dans l'ancien, prix 295 000, on met 45 000 d'apport, nos revenus c'est 5 200 à deux",
+    "gold": {
+      "projet": "residence_principale",
+      "nature": "ANCIEN",
+      "famille": "couple_sans_enfants",
+      "ptz_evoque": false,
+      "prix": "295 000",
+      "apport": "45 000",
+      "revenus": "5 200"
+    }
+  },
+  {
+    "text": "VEFA livraison 2028, T3, 265k, primo accédant, apport 20k, célibataire",
+    "gold": {
+      "projet": "residence_principale",
+      "nature": "NEUF",
+      "famille": "celibataire",
+      "ptz_evoque": false,
+      "prix": "265k",
+      "apport": "20k",
+      "revenus": "non_precise"
+    }
+  },
+  {
+    "text": "slt je gagne 1900 est ce que je peux acheter",
+    "gold": {
+      "projet": [
+        "non_precise",
+        "residence_principale"
+      ],
+      "nature": "non_precise",
+      "famille": "non_precise",
+      "ptz_evoque": false,
+      "prix": "non_precise",
+      "apport": "non_precise",
+      "revenus": "1900"
+    },
+    "notes": {
+      "projet": "\"est-ce que je peux acheter\" names no kind of purchase: both readings are defensible."
+    }
+  }
+]

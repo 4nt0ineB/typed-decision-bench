@@ -1,0 +1,25 @@
+{
+  "model": "open-jev-9b-tuned",
+  "task": "massive_scenario",
+  "n": 2000,
+  "derived": true,
+  "source": "results/bench/open-jev-9b/massive_scenario.jsonl",
+  "temperature_exponents": {
+    "all": 2.1
+  },
+  "fit": {
+    "source": "results/bench/open-jev-9b/massive_scenario.dev.jsonl",
+    "split": "dev",
+    "sample": 200,
+    "seed": 7,
+    "objective": "nll",
+    "conditions": [
+      "EN_EN",
+      "FR_FR"
+    ],
+    "rows_per_checkpoint": {
+      "all": 400
+    }
+  },
+  "git": "43f248b375cd1d9a38472b1316f2c07cdd47aeb9-dirty"
+}
